@@ -1,0 +1,44 @@
+CoreGen has not been configured with any user repositories.
+CoreGen has been configured with the following Xilinx repositories:
+ - 'C:\Xilinx\13.1\ISE_DS\ISE\coregen\' []
+INFO:sim:927 - Generating component instance 'fifo_2kx18' of
+   'xilinx.com:ip:fifo_generator:7.2' from
+   'C:\Xilinx\13.1\ISE_DS\ISE\coregen\ip\xilinx\primary\com\xilinx\ip\fifo_gener
+   ator_v7_2\fifo_generator_v7_2.xcd'.
+Resolving generic values...
+Initializing IP model...
+Finished initializing IP model.
+Finished resolving generic values.
+Generating IP...
+WARNING:sim:975 - You are using Fifo Generator 7.2 which has been replaced with
+   a new version. This version of the core will be removed in a future release.
+   Cores in this state are not supported.
+WARNING:sim:89 - A core named <fifo_2kx18> already exists in the output
+   directory. Output products for this core may be overwritten.
+XST: HDL Parsing
+XST: HDL Elaboration
+XST: HDL Synthesis
+XST: Advanced HDL Synthesis
+XST: Low Level Synthesis
+Generating Implementation files.
+Picked up JAVA_TOOL_OPTIONS: -Xmx2048m
+Generating NGC file.
+Finished Generation.
+Generating IP instantiation template...
+Finished generating IP instantiation template.
+Generating ASY schematic symbol...
+Initializing IP model...
+Finished initializing IP model.
+Finished generating ASY schematic symbol.
+Generating metadata file...
+Finished generating metadata file.
+Generating ISE project...
+Finished generating ISE project.Generating README file...
+Finished generating README file.
+Generating FLIST file...
+Finished FLIST file generation.
+Preparing output directory...
+Finished preparing output directory.
+Moving files to output directory...
+Finished moving files to output directory
+Saved options for project 'coregen'.

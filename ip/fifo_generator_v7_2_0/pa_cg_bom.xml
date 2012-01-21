@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<BillOfMaterials Version="1" Minor="2">
+  <IPInstance name="fifo_2kx18">
+    <FileSets>
+      <FileSet generator="model_parameter_resolution_generator">
+        <File name="./model_parameter_resolution_generator.xlog" type="ignore" timestamp="Tue Aug 09 21:47:10 GMT 2011" checksum="0xFFFFFFFF"></File>
+      </FileSet>
+      <FileSet generator="ip_xco_generator">
+        <File name="./fifo_2kx18.xco" type="xco" timestamp="Tue Aug 09 21:46:42 GMT 2011" checksum="0x200AB8B2"></File>
+      </FileSet>
+      <FileSet generator="ngc_netlist_generator">
+        <File name="./fifo_2kx18.ngc" type="ngc" timestamp="Tue Aug 09 21:47:05 GMT 2011" checksum="0x80830D9F"></File>
+        <File name="./fifo_2kx18.v" type="verilog" timestamp="Tue Aug 09 21:46:58 GMT 2011" checksum="0x6726F87E"></File>
+        <File name="./fifo_2kx18.veo" type="veo" timestamp="Tue Aug 09 21:46:58 GMT 2011" checksum="0x368CEE5B"></File>
+        <File name="./fifo_generator_readme.txt" type="txt" timestamp="Tue Aug 09 21:46:58 GMT 2011" checksum="0x8C1691E3"></File>
+        <File name="./fifo_generator_ug175.pdf" type="pdf" timestamp="Tue Aug 09 21:46:58 GMT 2011" checksum="0x7B853EF8"></File>
+      </FileSet>
+      <FileSet generator="instantiation_template_generator">
+        <File name="./fifo_2kx18.veo" type="veo" timestamp="Tue Aug 09 21:47:05 GMT 2011" checksum="0x368CEE5B"></File>
+      </FileSet>
+      <FileSet generator="asy_generator">
+        <File name="./fifo_2kx18.asy" type="asy" timestamp="Tue Aug 09 21:47:08 GMT 2011" checksum="0x903A7B6F"></File>
+      </FileSet>
+      <FileSet generator="xmdf_generator">
+        <File name="./fifo_2kx18_xmdf.tcl" type="tclXmdf" timestamp="Tue Aug 09 21:47:08 GMT 2011" checksum="0xBF5DD5B7"></File>
+      </FileSet>
+      <FileSet generator="ise_generator">
+        <File name="./fifo_2kx18.gise" type="ignore" timestamp="Tue Aug 09 21:47:10 GMT 2011" checksum="0xAC308EE9"></File>
+        <File name="./fifo_2kx18.xise" type="ignore" timestamp="Tue Aug 09 21:47:10 GMT 2011" checksum="0xC62EA0FE"></File>
+      </FileSet>
+      <FileSet generator="deliver_readme_generator">
+        <File name="./deliver_readme_generator.xlog" type="ignore" timestamp="Tue Aug 09 21:47:10 GMT 2011" checksum="0xFFFFFFFF"></File>
+      </FileSet>
+      <FileSet generator="flist_generator">
+        <File name="./fifo_2kx18_flist.txt" type="ignore" timestamp="Tue Aug 09 21:47:10 GMT 2011" checksum="0x64B4445D"></File>
+      </FileSet>
+    </FileSets>
+  </IPInstance>
+</BillOfMaterials>

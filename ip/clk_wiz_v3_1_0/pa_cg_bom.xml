@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<BillOfMaterials Version="1" Minor="2">
+  <IPInstance name="clkgendcm_720p60hz">
+    <FileSets>
+      <FileSet generator="model_parameter_resolution_generator">
+        <File name="./model_parameter_resolution_generator.xlog" type="ignore" timestamp="Tue Aug 09 21:40:26 GMT 2011" checksum="0xFFFFFFFF"></File>
+      </FileSet>
+      <FileSet generator="ip_xco_generator">
+        <File name="./clkgendcm_720p60hz.xco" type="xco" timestamp="Tue Aug 09 21:40:17 GMT 2011" checksum="0x920E017E"></File>
+      </FileSet>
+      <FileSet generator="ngc_netlist_generator">
+        <File name="./clkgendcm_720p60hz/clk_wiz_readme.txt" type="ignore" timestamp="Thu Feb 03 22:20:48 GMT 2011" checksum="0x63183E2A"></File>
+        <File name="./clkgendcm_720p60hz/clkgendcm_720p60hz.ucf" type="ucf" timestamp="Tue Aug 09 21:40:20 GMT 2011" checksum="0x5EC3B764"></File>
+        <File name="./clkgendcm_720p60hz/doc/clk_wiz_ds709.pdf" type="ignore" timestamp="Thu Feb 03 22:20:48 GMT 2011" checksum="0xC01920CC"></File>
+        <File name="./clkgendcm_720p60hz/doc/clk_wiz_gsg521.pdf" type="ignore" timestamp="Thu Feb 03 22:20:48 GMT 2011" checksum="0xBA196AB0"></File>
+        <File name="./clkgendcm_720p60hz/example_design/clkgendcm_720p60hz_exdes.v" type="verilog" timestamp="Tue Aug 09 21:40:17 GMT 2011" checksum="0x53DD6918"></File>
+        <File name="./clkgendcm_720p60hz/implement/implement.bat" type="ignore" timestamp="Tue Aug 09 21:40:20 GMT 2011" checksum="0x98AE950F"></File>
+        <File name="./clkgendcm_720p60hz/implement/implement.sh" type="ignore" timestamp="Tue Aug 09 21:40:19 GMT 2011" checksum="0xD7364919"></File>
+        <File name="./clkgendcm_720p60hz/implement/planAhead_ise.bat" type="ignore" timestamp="Tue Aug 09 21:40:19 GMT 2011" checksum="0x2D87B27F"></File>
+        <File name="./clkgendcm_720p60hz/implement/planAhead_ise.sh" type="ignore" timestamp="Tue Aug 09 21:40:19 GMT 2011" checksum="0x26D9E0AC"></File>
+        <File name="./clkgendcm_720p60hz/implement/planAhead_ise.tcl" type="ignore" timestamp="Tue Aug 09 21:40:19 GMT 2011" checksum="0xEE5C7326"></File>
+        <File name="./clkgendcm_720p60hz/implement/xst.prj" type="ignore" timestamp="Tue Aug 09 21:40:20 GMT 2011" checksum="0x3E535B2C"></File>
+        <File name="./clkgendcm_720p60hz/implement/xst.scr" type="ignore" timestamp="Tue Aug 09 21:40:20 GMT 2011" checksum="0x392E1A17"></File>
+        <File name="./clkgendcm_720p60hz/simulation/clkgendcm_720p60hz_tb.v" type="ignore" timestamp="Tue Aug 09 21:40:17 GMT 2011" checksum="0xE300FED0"></File>
+        <File name="./clkgendcm_720p60hz/simulation/functional/simcmds.tcl" type="ignore" timestamp="Tue Aug 09 21:40:19 GMT 2011" checksum="0x522C4A54"></File>
+        <File name="./clkgendcm_720p60hz/simulation/functional/simulate_isim.bat" type="ignore" timestamp="Tue Aug 09 21:40:18 GMT 2011" checksum="0x16B072E8"></File>
+        <File name="./clkgendcm_720p60hz/simulation/functional/simulate_isim.sh" type="ignore" timestamp="Tue Aug 09 21:40:19 GMT 2011" checksum="0x6A4E1E9B"></File>
+        <File name="./clkgendcm_720p60hz/simulation/functional/simulate_mti.do" type="ignore" timestamp="Tue Aug 09 21:40:18 GMT 2011" checksum="0x22B3C2B0"></File>
+        <File name="./clkgendcm_720p60hz/simulation/functional/simulate_ncsim.sh" type="ignore" timestamp="Tue Aug 09 21:40:18 GMT 2011" checksum="0x8FF291AA"></File>
+        <File name="./clkgendcm_720p60hz/simulation/functional/simulate_vcs.sh" type="ignore" timestamp="Tue Aug 09 21:40:19 GMT 2011" checksum="0x6CDC52B7"></File>
+        <File name="./clkgendcm_720p60hz/simulation/functional/ucli_commands.key" type="ignore" timestamp="Tue Aug 09 21:40:19 GMT 2011" checksum="0x15A5CE19"></File>
+        <File name="./clkgendcm_720p60hz/simulation/functional/vcs_session.tcl" type="ignore" timestamp="Tue Aug 09 21:40:19 GMT 2011" checksum="0x1A8D760C"></File>
+        <File name="./clkgendcm_720p60hz/simulation/functional/wave.do" type="ignore" timestamp="Tue Aug 09 21:40:18 GMT 2011" checksum="0xE0FCC1E4"></File>
+        <File name="./clkgendcm_720p60hz/simulation/functional/wave.sv" type="ignore" timestamp="Tue Aug 09 21:40:18 GMT 2011" checksum="0xF42F3C45"></File>
+        <File name="./clkgendcm_720p60hz.ejp" type="unknown" timestamp="Tue Aug 09 21:40:17 GMT 2011" checksum="0xDEF1B21C"></File>
+        <File name="./clkgendcm_720p60hz.v" type="verilog" timestamp="Tue Aug 09 21:40:17 GMT 2011" checksum="0xBB0CFF9A"></File>
+        <File name="./clkgendcm_720p60hz.veo" type="veo" timestamp="Tue Aug 09 21:40:17 GMT 2011" checksum="0x59A939F4"></File>
+        <File name="./clkgendcm_720p60hz_xmdf.tcl" type="tcl" timestamp="Tue Aug 09 21:40:18 GMT 2011" checksum="0x2BF520E1"></File>
+      </FileSet>
+      <FileSet generator="instantiation_template_generator">
+        <File name="./clkgendcm_720p60hz.veo" type="veo" timestamp="Tue Aug 09 21:40:20 GMT 2011" checksum="0x59A939F4"></File>
+      </FileSet>
+      <FileSet generator="asy_generator">
+        <File name="./clkgendcm_720p60hz.asy" type="asy" timestamp="Tue Aug 09 21:40:24 GMT 2011" checksum="0x4709598E"></File>
+      </FileSet>
+      <FileSet generator="xmdf_generator">
+        <File name="./xmdf_generator.xlog" type="ignore" timestamp="Tue Aug 09 21:40:26 GMT 2011" checksum="0xFFFFFFFF"></File>
+      </FileSet>
+      <FileSet generator="ise_generator">
+        <File name="./clkgendcm_720p60hz.gise" type="ignore" timestamp="Tue Aug 09 21:40:26 GMT 2011" checksum="0x62A4AF22"></File>
+        <File name="./clkgendcm_720p60hz.xise" type="ignore" timestamp="Tue Aug 09 21:40:26 GMT 2011" checksum="0x23EDC58D"></File>
+      </FileSet>
+      <FileSet generator="deliver_readme_generator">
+        <File name="./deliver_readme_generator.xlog" type="ignore" timestamp="Tue Aug 09 21:40:26 GMT 2011" checksum="0xFFFFFFFF"></File>
+      </FileSet>
+      <FileSet generator="flist_generator">
+        <File name="./clkgendcm_720p60hz_flist.txt" type="ignore" timestamp="Tue Aug 09 21:40:26 GMT 2011" checksum="0xC1C72AE1"></File>
+      </FileSet>
+    </FileSets>
+  </IPInstance>
+</BillOfMaterials>

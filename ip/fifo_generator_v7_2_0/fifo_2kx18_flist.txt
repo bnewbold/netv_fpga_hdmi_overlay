@@ -1,0 +1,12 @@
+# Output products list for <fifo_2kx18>
+fifo_2kx18.asy
+fifo_2kx18.gise
+fifo_2kx18.ngc
+fifo_2kx18.v
+fifo_2kx18.veo
+fifo_2kx18.xco
+fifo_2kx18.xise
+fifo_2kx18_flist.txt
+fifo_2kx18_xmdf.tcl
+fifo_generator_readme.txt
+fifo_generator_ug175.pdf
