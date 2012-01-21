@@ -1,0 +1,9 @@
+This repository is simply a mirror of the file fpga/hdmi_overlay_0xD_src.tgz
+downloaded from http://www.kosagi.com/netv_hardware/ on Jan 19th, 2011.
+
+It seems to contain all the verilog and scripts required to build FPGA firmware
+for the NeTV HDMI device from Chumby/Sutajio Ko-Usagi; see
+http://www.kosagi.com/blog/ for more information.
+
+See source file headers for licensing; seems to be a very permissive
+attribution license. 
